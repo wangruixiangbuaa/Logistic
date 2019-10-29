@@ -13,7 +13,7 @@ namespace HPIT.Logistic.PM.DAL
         public static readonly string connStr = ConfigurationManager.ConnectionStrings["LogisticsDB"].ConnectionString;
         /// <summary>
         /// 查询首行首列的方法
-        /// </summary>
+        /// </summary>hhhhh
         /// <param name="sql"></param>
         /// <param name="sqlParameters"></param>
         /// <returns></returns>
