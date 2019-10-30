@@ -30,5 +30,8 @@ namespace HPIT.Logistic.PM.Model
         public DateTime CheckInTime { get; set; }
 
         public DateTime AlertTime { get; set; }
+
+
+        public int FK_RoleID { get; set; }
     }
 }
